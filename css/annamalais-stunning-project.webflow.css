@@ -707,7 +707,7 @@ figcaption {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding: 40px 50px;
+  padding: 80px 50px 40px;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
@@ -1206,7 +1206,7 @@ figcaption {
 }
 
 .image {
-  max-width: 1013vh;
+  max-width: none;
   min-width: 0px;
   margin-left: 0px;
 }
