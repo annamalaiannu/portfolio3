@@ -920,6 +920,8 @@ figcaption {
   width: 100%;
 }
 
+
+
 .project-description-grid {
   margin-top: 120px;
   margin-bottom: 120px;
@@ -1086,6 +1088,18 @@ figcaption {
   font-weight: 700;
 }
 
+.project-vookmark {
+  color: #1da3e4;
+}
+
+.project-ds {
+  color: #2c0756;
+}
+
+.project-apollo {
+  color: #3b42c4;
+}
+
 .h1.vookmark {
   color: #2d2d96;
 }
@@ -1215,9 +1229,9 @@ figcaption {
 }
 
 .image {
-  max-width: 1200vw;
-  min-width: 0vw;
-  margin-left: 0px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 
 .grid {
